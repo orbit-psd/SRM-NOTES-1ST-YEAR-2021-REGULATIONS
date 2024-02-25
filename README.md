@@ -7,7 +7,8 @@ Welcome to the First Year Notes Repository! This repository contains notes and q
 - [Biology](./Biology)
 - [Chemistry](./Chemistry)
 - [English](./English)
-- [Maths](./Maths)
+- [Maths - CLA](./Maths-CLA)
+- [Maths - ACCA](./Maths-ACCA)
 - [POE](./POE)
 - [PPS](./PPS)
 - [Physics](./Physics)
@@ -18,7 +19,7 @@ Each subject folder contains detailed lecture notes, study materials, & question
 
 This repository is meant to be a collaborative effort, and your contributions are highly appreciated. If you have additional notes or question banks for any of the subjects, you can contribute to this repository by following these steps:
 
-1. Dm @orbit.js in discord with your name and notes
+1. Dm @orbit.psd in discord with your name and notes
 
 Let's work together to make this repository a valuable resource for all the first-year students!
 
